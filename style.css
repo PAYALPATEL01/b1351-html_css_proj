@@ -1,0 +1,26 @@
+
+h1{
+color: red;
+}
+h3{
+  color : green;
+}
+
+a{
+ font-style: italic;
+ color: red;
+ font-weight: bold;
+}
+lable{
+  color: black;
+  font-weight: bold;
+}
+ input[type="text"],
+ input[type="password"]{
+  background-color : lightgrey;
+ }
+  input[type=  "submit"]{
+  background-color: blue;
+  color: white;
+  font-weight: bold;
+  }
